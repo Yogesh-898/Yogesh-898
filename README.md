@@ -2,6 +2,7 @@
 # 💫 About Me:
  First Year Mechanical Engineering Student at Government College of Engineering, Dharmapuri
 I'm passionate about two things — programming and mechanical design. I'm still early in my journey, exploring both fields and building my skills one step at a time.
+
 Interests:
 
 Mechanical Design — CAD, engineering drawings, design concepts
