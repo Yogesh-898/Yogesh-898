@@ -6,6 +6,7 @@ I'm passionate about two things — programming and mechanical design. I'm still
 Interests:
 
 Mechanical Design — CAD, engineering drawings, design concepts
+
 Programming — writing code and solving problems
 
 
