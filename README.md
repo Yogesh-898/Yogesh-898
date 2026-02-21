@@ -1,6 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-l'm currently a student in government college of engineering,Dharmapuri , B.E Mechanical Engineering. intresed in programming in python and in Mechanical design.
+ First Year Mechanical Engineering Student at Government College of Engineering, Dharmapuri
+I'm passionate about two things — programming and mechanical design. I'm still early in my journey, exploring both fields and building my skills one step at a time.
+Interests:
+
+Mechanical Design — CAD, engineering drawings, design concepts
+Programming — writing code and solving problems
 
 
 ## 🌐 Socials:
